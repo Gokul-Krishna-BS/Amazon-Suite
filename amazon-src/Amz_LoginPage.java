@@ -30,7 +30,7 @@ public class Amz_LoginPage
 	}
 	public void password_()
 	{
-																																																										password.sendKeys("sobhasaseendran");
+																																																										password.sendKeys("sobhasseendran");
 	}
 	public void SignIn_button_()
 	{
